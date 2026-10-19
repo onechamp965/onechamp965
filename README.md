@@ -1,4 +1,4 @@
-## hello my world
+## 늘 최선을 다하는 개발자가 되겠습니다
 
 <!--
 **onechamp965/onechamp965** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
